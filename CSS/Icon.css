@@ -1,0 +1,92 @@
+.material-icons{
+	color: #000;
+	position:absolute;
+	
+}
+.marker-pin {
+  width: 30px;
+  height: 30px;
+  border-radius: 50% 50% 50% 0;
+  background: #996600;
+  position: absolute;
+  transform: rotate(-45deg);
+  left: 50%;
+  top: 50%;
+  margin: -15px 0 0 -15px;
+}
+
+.marker-pin::after {
+	content: '';
+    width: 24px;
+    height: 24px;
+    margin: 3px 0px 0px -12px;
+    background: #fff;
+    border-radius: 50%;
+	position: absolute;
+} 
+
+.custom-div-icon-MahafortsIcon i,.custom-div-icon-ArunanchalfortIcon i,.custom-div-icon-GujfortIcon i,.custom-div-icon-AndhrafortIcon i,.custom-div-icon-AssamfortIcon i,.custom-div-icon-BiharfortIcon i,.custom-div-icon-DelhifortIcon i,.custom-div-icon-GoafortIcon i,.custom-div-icon-HaryanafortIcon i,.custom-div-icon-HimachalfortIcon i,.custom-div-icon-KarnatakafortIcon i,.custom-div-icon-KeralafortIcon i,.custom-div-icon-MadhyapradeshfortIcon i,.custom-div-icon-odishafortIcon i,.custom-div-icon-PunjabfortIcon i,.custom-div-icon-RajasthanfortIcon i,.custom-div-icon-TamilnadufortIcon i,.custom-div-icon-UttarakhandfortIcon i,.custom-div-icon-UttarPradeshfortIcon i,.custom-div-icon-westbengalfortIcon i{
+   position:absolute ;
+   width: 22px;
+   font-size: 22px;
+   left: 0;
+   right: 0;
+   margin: 11px auto ;
+   text-align: center;
+}
+.custom-div-icon-westBengalSancIcon i,.custom-div-icon-UttarPradeshSancIcon i,.custom-div-icon-UttarakhandSancIcon i,.custom-div-icon-TamilnaduSancIcon i,.custom-div-icon-RajasthanSancIcon i,.custom-div-icon-PunjabSancIcon i,.custom-div-icon-OdishaSancIcon i,.custom-div-icon-MadhyapradeshSancIcon i,.custom-div-icon-KeralaSancIcon i,.custom-div-icon-KarnatakaSancIcon i,.custom-div-icon-MahaSancIcon i,.custom-div-icon-AndhraSancIcon i,.custom-div-icon-ArunanchalSancIcon i,.custom-div-icon-AssamSancIcon i,.custom-div-icon-BiharSancIcon i,.custom-div-icon-GujSancIcon i,.custom-div-icon-HimachalSancIcon i{
+  position:absolute ;
+  width: 22px;
+  font-size: 22px;
+  left: 0;
+  right: 0;
+  margin: 11px auto ;
+  text-align: center;  
+}
+.custom-div-icon-westBengalStationIcon i,.custom-div-icon-UttarakhandStationIcon i,.custom-div-icon-RajasthanHillStationIcon i,.custom-div-icon-OdishaHillStationIcon i,.custom-div-icon-MadhyapradeshHillStationIcon i,.custom-div-icon-KarnatakaHillStationIcon i,.custom-div-icon-HimachalHillStationIcon i,.custom-div-icon-MahaHillStationIcon i,.custom-div-icon-ArunanchalHillStationIcon i,.custom-div-icon-AssamHillStationIcon i,.custom-div-icon-GoaHillStationIcon i,.custom-div-icon-GujHillStationIcon i{
+  position:absolute ;
+  width: 22px;
+  font-size: 22px;
+  left: 0;
+  right: 0;
+  margin: 11px auto ;
+  text-align: center; 
+}
+.custom-div-icon-TamilnadubeachIcon i,.custom-div-icon-OdishabeachIcon i,.custom-div-icon-KarnatakabeachIcon i,.custom-div-icon-MahabeachIcon i,.custom-div-icon-AndamanbeachIcon i,.custom-div-icon-GoabeachesIcon i,.custom-div-icon-GujbeachIcon i,.custom-div-icon-westBengalbeachIcon i{
+  position:absolute ;
+  width: 22px;
+  font-size: 22px;
+  left: 0;
+  right: 0;
+  margin: 11px auto ;
+  text-align: center; 
+}
+.marker-pin {
+  width: 30px;
+  height: 30px;
+  border-radius: 50% 50% 50% 0;
+  background: #996600;
+  position: absolute;
+  transform: rotate(-45deg);
+  left: 50%;
+  top: 50%;
+  margin: -15px 0 0 -15px;
+  
+}
+
+.marker-pin::after {
+	content: '';
+    width: 24px;
+    height: 24px;
+    margin: 3px 0px 0px -12px;
+    background: #fff;
+    
+    border-radius: 50%;
+	position: absolute;
+}
+.icon-unescologo:before {
+  content: "\e900";
+  color: #000;
+  position: absolute;
+  margin: 14px 0px 0px -8px;
+}
